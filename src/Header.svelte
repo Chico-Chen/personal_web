@@ -1,6 +1,5 @@
 <script>
     import * as animateScroll from "svelte-scrollto";
-import { element } from "svelte/internal";
 </script>
 <div id="header" class="header">
     <ul class="nav">
@@ -21,6 +20,9 @@ import { element } from "svelte/internal";
         </li>
         <li class="nav-item">
             <a class="nav-link" use:animateScroll.scrollto={'#skills'} href='#skills'>Skills</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" use:animateScroll.scrollto={'#contact'} href='#skills'>Contact</a>
         </li>
     </ul>
 </div>

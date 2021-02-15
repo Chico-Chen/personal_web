@@ -1,26 +1,28 @@
 <footer id="footer">
     <div class="container">
-        <div class="footer-left">
-            <p>Copyright © 2021 Qi Chen</p>
-        </div>
-        <div class="footer-left float-right">
+        <div class="float-right">
             <ul>
                 <li>
-                    <a href="https://www.linkedin.com/in/chico-chen/?locale=en_US" >
-                        <i class="fa fa-linkedin"></i>
+                    <a
+                        href="https://www.linkedin.com/in/chico-chen/?locale=en_US"
+                    >
+                        <i class="fa fa-linkedin" />
                     </a>
                 </li>
                 <li>
-                    <a href="https://chicoq1996.medium.com/" >
-                        <i class="fa fa-medium"></i>
+                    <a href="https://chicoq1996.medium.com/">
+                        <i class="fa fa-medium" />
                     </a>
                 </li>
                 <li>
-                    <a href="https://github.com/Chico-Chen?tab=repositories" >
-                        <i class="fa fa-github"></i>
+                    <a href="https://github.com/Chico-Chen?tab=repositories">
+                        <i class="fa fa-github" />
                     </a>
                 </li>
             </ul>
+        </div>
+        <div class="footer-left">
+            <p>Copyright © 2021 Qi Chen</p>
         </div>
     </div>
 </footer>
@@ -28,35 +30,43 @@
 <style>
     #footer {
         padding: 20px;
-        display: block;
+        text-align: center;
         background-color: #6b686b;
     }
 
     .container {
-        display: flex;
-        padding-right: 8vh;
-        padding-left: 8vh;
+        width: 100%;
+        padding-right: 15px;
+        padding-left: 15px;
         margin-right: auto;
         margin-left: auto;
     }
 
     ul {
+        padding: 0;
         list-style: none;
-        display: flex;
+        text-align: center;
+        font-size: 18px;
+        line-height: 1.6;
+        margin-bottom: 0;
+        color: inherit;
+        text-decoration: none;
+        opacity: 0.8;
+        display: inline-flex;
     }
 
     li {
-        padding-left: 10px;
+        padding-left: 0.5rem;
+        padding-right: 0.5rem;
+        display: block;
     }
 
     .float-right {
-        float: right;
-        text-align: right;
-        margin-left: 100vh;
+        position: relative;
+        margin: 0 auto 0 auto;
     }
 
     .footer-left {
-        display: inline-block;
         padding-left: 15px;
         padding-right: 15px;
         color: rgb(235, 223, 223);
@@ -91,6 +101,8 @@
     }
 
     .fa:hover {
-        opacity: 0.7;
+        transform: translateY(1px);
+        box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1),
+            0 1px 1px 0 rgba(0, 0, 0, 0.09);
     }
 </style>

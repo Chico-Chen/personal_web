@@ -7,6 +7,7 @@
 	import Project from './Project.svelte';
 	import Footer from './Footer.svelte';
 	import Skills from './Skills.svelte';
+	import Contact from './Contact.svelte';
 </script>
 
 <main>
@@ -17,6 +18,7 @@
 	<Education></Education>
 	<Project></Project>
 	<Skills></Skills>
+	<Contact></Contact>
 	<Footer></Footer>
 </main>
 
