@@ -3,7 +3,7 @@
         <h1 class="title">About Me</h1>
         <div class="content">
             <div class="image">
-                <img src="./build/image/test.jpg" alt="me" />
+                <img src="./build/image/me.jpg" alt="me" />
             </div>
             <div class="text-content">
                 <p>
@@ -59,8 +59,8 @@
 
     img {
         border-radius: 50%;
-        max-width: 10vh;
-        height: 10vh;
+        max-width: 12vh;
+        height: 15vh;
     }
 
     .text-content {
