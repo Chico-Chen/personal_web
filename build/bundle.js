@@ -2814,7 +2814,7 @@ var app = (function () {
     			t7 = space();
     			create_component(footer.$$.fragment);
     			attr_dev(main, "class", "svelte-1w1bprh");
-    			add_location(main, file$a, 12, 0, 390);
+    			add_location(main, file$a, 12, 0, 402);
     		},
     		l: function claim(nodes) {
     			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
