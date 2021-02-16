@@ -51,12 +51,12 @@
         background-image: url("./image/contact-bg.png");
         background-size: cover;
         color: white;
+        font-family: Comic Sans MS, Comic Sans, cursive;
     }
 
     .title {
         text-align: center;
         margin: auto;
-        font-family: Snell Roundhand, cursive;
         padding-top: 75px;
         font-weight: 700px;
     }
