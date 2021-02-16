@@ -2627,59 +2627,59 @@ var app = (function () {
     			button.textContent = "Send Message";
     			t12 = space();
     			div9 = element("div");
-    			attr_dev(h1, "class", "title svelte-16s3k9r");
+    			attr_dev(h1, "class", "title svelte-iky0oy");
     			add_location(h1, file$9, 5, 4, 73);
     			attr_dev(input0, "type", "text");
     			attr_dev(input0, "name", "_name");
     			input0.required = true;
-    			attr_dev(input0, "class", "svelte-16s3k9r");
+    			attr_dev(input0, "class", "svelte-iky0oy");
     			add_location(input0, file$9, 17, 24, 533);
-    			attr_dev(label0, "class", "svelte-16s3k9r");
+    			attr_dev(label0, "class", "svelte-iky0oy");
     			add_location(label0, file$9, 19, 24, 684);
-    			attr_dev(div0, "class", "styled-input svelte-16s3k9r");
+    			attr_dev(div0, "class", "styled-input svelte-iky0oy");
     			add_location(div0, file$9, 16, 20, 481);
     			attr_dev(div1, "class", "col-md-6 col-sm-12");
     			add_location(div1, file$9, 15, 16, 427);
     			attr_dev(input1, "type", "text");
     			attr_dev(input1, "name", "_replyto");
     			input1.required = true;
-    			attr_dev(input1, "class", "svelte-16s3k9r");
+    			attr_dev(input1, "class", "svelte-iky0oy");
     			add_location(input1, file$9, 24, 24, 900);
-    			attr_dev(label1, "class", "svelte-16s3k9r");
+    			attr_dev(label1, "class", "svelte-iky0oy");
     			add_location(label1, file$9, 26, 24, 1054);
-    			attr_dev(div2, "class", "styled-input svelte-16s3k9r");
+    			attr_dev(div2, "class", "styled-input svelte-iky0oy");
     			set_style(div2, "float", "right");
     			add_location(div2, file$9, 23, 20, 827);
     			attr_dev(div3, "class", "col-md-6 col-sm-12");
     			add_location(div3, file$9, 22, 16, 773);
     			attr_dev(textarea, "name", "message");
     			textarea.required = true;
-    			attr_dev(textarea, "class", "svelte-16s3k9r");
+    			attr_dev(textarea, "class", "svelte-iky0oy");
     			add_location(textarea, file$9, 31, 24, 1246);
-    			attr_dev(label2, "class", "svelte-16s3k9r");
+    			attr_dev(label2, "class", "svelte-iky0oy");
     			add_location(label2, file$9, 33, 24, 1390);
-    			attr_dev(div4, "class", "styled-input wide svelte-16s3k9r");
+    			attr_dev(div4, "class", "styled-input wide svelte-iky0oy");
     			add_location(div4, file$9, 30, 20, 1189);
     			attr_dev(div5, "class", "col-xs-12");
     			add_location(div5, file$9, 29, 16, 1144);
     			attr_dev(button, "type", "submit");
-    			attr_dev(button, "class", "btn-lrg submit-btn svelte-16s3k9r");
+    			attr_dev(button, "class", "btn-lrg submit-btn svelte-iky0oy");
     			add_location(button, file$9, 38, 20, 1628);
     			attr_dev(div6, "class", "col-xs-12");
     			add_location(div6, file$9, 36, 16, 1482);
-    			attr_dev(div7, "class", "row input-container svelte-16s3k9r");
+    			attr_dev(div7, "class", "row input-container svelte-iky0oy");
     			add_location(div7, file$9, 14, 12, 376);
     			attr_dev(form, "method", "POST");
     			attr_dev(form, "action", "https://formkeep.com/f/010e1db52313");
     			attr_dev(form, "accept-charset", "UTF-8");
     			attr_dev(form, "enctype", "multipart/form-data");
     			add_location(form, file$9, 8, 8, 182);
-    			attr_dev(div8, "class", "container svelte-16s3k9r");
+    			attr_dev(div8, "class", "container svelte-iky0oy");
     			add_location(div8, file$9, 7, 4, 149);
-    			attr_dev(div9, "class", "footer svelte-16s3k9r");
+    			attr_dev(div9, "class", "footer svelte-iky0oy");
     			add_location(div9, file$9, 45, 4, 1825);
     			attr_dev(div10, "id", "contact");
-    			attr_dev(div10, "class", "svelte-16s3k9r");
+    			attr_dev(div10, "class", "svelte-iky0oy");
     			add_location(div10, file$9, 4, 0, 49);
     		},
     		l: function claim(nodes) {
@@ -2930,7 +2930,7 @@ var app = (function () {
     }
 
     const app = new App({
-    	target: document.body
+    	target: document.body,
     });
 
     return app;
