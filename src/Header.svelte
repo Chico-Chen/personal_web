@@ -37,7 +37,7 @@
         z-index: 999;
         width: 100%;
         height: 6.5vh;
-        font-family: Snell Roundhand, cursive;
+        font-family: Comic Sans MS, Comic Sans, cursive;
         border-radius: 2%;
     }
 

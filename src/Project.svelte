@@ -66,12 +66,12 @@
         background-image: url("./image/project-bg.png");
         background-size: cover;
         color: white;
+        font-family: Comic Sans MS, Comic Sans, cursive;
     }
 
     .title {
         text-align: center;
         margin: auto;
-        font-family: Snell Roundhand, cursive;
         padding: 15px;
         z-index: 15;
         font-weight: 700px;
@@ -85,7 +85,6 @@
         margin-right: -15px;
         margin-left: -15px;
         margin-top: 2rem;
-        font-family: Snell Roundhand, cursive;
         z-index: 100;
         display: absolute;
     }

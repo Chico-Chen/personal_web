@@ -25,6 +25,7 @@
         text-align: center;
         padding: 75px 15px;
         background-color: #f8f9fa;
+        font-family: Comic Sans MS, Comic Sans, cursive;
     }
 
     .container {
@@ -45,7 +46,6 @@
         display: inline-block;
         text-align: center;
         margin: auto;
-        font-family: Snell Roundhand, cursive;
         padding-top: 10vh;
     }
 
@@ -79,7 +79,6 @@
         margin: 0;
         font-size: 20px;
         font-weight: 600;
-        font-family: Snell Roundhand, cursive;
         text-align: left;
     }
 </style>

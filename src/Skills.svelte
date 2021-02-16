@@ -137,12 +137,12 @@
         text-align: center;
         padding: 50px 2vh;
         background-color: #f8f9fa;
+        font-family: Comic Sans MS, Comic Sans, cursive;
     }
 
     .title {
         text-align: center;
         margin: auto;
-        font-family: Snell Roundhand, cursive;
         padding: 15px;
     }
 
@@ -155,7 +155,6 @@
         margin-right: -15px;
         margin-left: -15px;
         margin-top: 2rem;
-        font-family: Snell Roundhand, cursive;
     }
 
     .left-content {

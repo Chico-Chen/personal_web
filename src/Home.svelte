@@ -20,7 +20,7 @@
 
 <style>
     .home_background {
-        background-image: url("./image/hello.gif");
+        background-image: url("./image/Hello.gif");
         background-size: cover;
         width: 100%;
         height: 100vh;
@@ -79,7 +79,7 @@
         border-radius: 60px;
         font-size: 25px;
         cursor: pointer;
-        font-family: Snell Roundhand, cursive;
+        font-family: Comic Sans MS, Comic Sans, cursive;
         font-weight: 300;
         box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.06),
             0 2px 10px 0 rgba(0, 0, 0, 0.07);
@@ -88,6 +88,7 @@
         background-color: transparent;
         color: black;
         text-decoration: none;
+        font-weight: 600;
     }
 
     .download-button:hover {

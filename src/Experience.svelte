@@ -36,6 +36,7 @@
         width: 100%;
         background-image: url("./image/experience-bg.png");
         background-size: cover;
+        font-family: Comic Sans MS, Comic Sans, cursive;
     }
 
     h3, h4, p {
@@ -46,7 +47,6 @@
     .title {
         text-align: center;
         margin: auto;
-        font-family: Snell Roundhand, cursive;
         padding: 75px;
     }
 
@@ -63,9 +63,6 @@
         box-sizing: border-box;
     }
 
-    h1 {
-        font-family: Snell Roundhand, cursive;
-    }
 
     .timeline {
         position: relative;
@@ -179,7 +176,6 @@
 
     .timeline_title {
         margin: 0;
-        font-family: Snell Roundhand, cursive;
         font-size: 1.5em;
     }
 
