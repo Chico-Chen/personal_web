@@ -1,8 +1,17 @@
+<script>
+    import {} from "os";
+</script>
+
 <div id="contact">
     <h1 class="title">Stay Connected</h1>
     <!-- <div class="form"> -->
     <div class="container">
-        <form method="POST" action="https://formspree.io/f/xleokjjj">
+        <form
+            method="POST"
+            action="https://formkeep.com/f/010e1db52313"
+            accept-charset="UTF-8"
+            enctype="multipart/form-data"
+        >
             <div class="row input-container">
                 <div class="col-md-6 col-sm-12">
                     <div class="styled-input">
@@ -26,7 +35,10 @@
                     </div>
                 </div>
                 <div class="col-xs-12">
-                    <div class="btn-lrg submit-btn">Send Message</div>
+                    <!-- <input type="submit" class="btn-lrg submit-btn" value="Send Message"/> -->
+                    <button type="submit" class="btn-lrg submit-btn"
+                        >Send Message</button
+                    >
                 </div>
             </div>
         </form>
@@ -79,7 +91,6 @@
         position: relative;
         border-radius: 4px;
     }
-
 
     @media only screen and (max-width: 768px) {
         .styled-input {
@@ -143,6 +154,7 @@
             0 2px 10px 0 rgba(0, 0, 0, 0.07);
         -webkit-transition: all 300ms ease;
         transition: all 300ms ease;
+        border: none;
     }
 
     .submit-btn:hover {
