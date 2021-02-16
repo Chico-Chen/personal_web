@@ -69,7 +69,6 @@
         padding: 1rem;
         margin: 0 auto;
         max-width: 1300px;
-        font-family: Snell Roundhand, cursive;
         text-align: left;
 
         &:before {
