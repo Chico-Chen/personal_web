@@ -54,6 +54,38 @@
                     </div>
                 </div>
             </li>
+            <li class="cards__item">
+                <div class="card">
+                    <div class="card__image card__image--river" />
+                    <div class="card__content">
+                        <div class="card__title">Shortest Path & Centrality Web App</div>
+                        <span>TigerGraph, Streamlit, Graphistry</span>
+                        <p class="card__text">
+                            Created an web application using Streamlit that launches airports' shortest path
+                            and centrality analysis. Used TigerGraph Graph - Centrality database.
+                        </p>
+                        <ul>
+                            <li>
+                                <a
+                                    href="https://github.com/github-organization-account-name/hackathon"
+                                >
+                                    <i class="fa fa-github" />
+                                </a>
+                                <a
+                                    href="https://chicoq1996.medium.com/creating-an-airport-centrality-data-visualization-web-application-with-tigergraph-streamlit-35252235bf0a"
+                                >
+                                    <i class="fa fa-medium" />
+                                </a>
+                                <a
+                                    href="https://chicoq1996.medium.com/how-to-render-a-react-page-into-streamlit-and-build-an-interactive-map-790757145a20"
+                                >
+                                    <i class="fa fa-medium" />
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </li>
         </ul>
     </div>
 </div>
