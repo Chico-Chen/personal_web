@@ -1743,11 +1743,11 @@ var app = (function () {
     const file$6 = "src\\Project.svelte";
 
     function create_fragment$6(ctx) {
-    	let div9;
+    	let div13;
     	let h1;
     	let t1;
-    	let div8;
-    	let ul2;
+    	let div12;
+    	let ul3;
     	let li2;
     	let div3;
     	let div0;
@@ -1785,15 +1785,37 @@ var app = (function () {
     	let li3;
     	let a2;
     	let i2;
+    	let t19;
+    	let li6;
+    	let div11;
+    	let div8;
+    	let t20;
+    	let div10;
+    	let div9;
+    	let t22;
+    	let span3;
+    	let t24;
+    	let p2;
+    	let t26;
+    	let ul2;
+    	let li5;
+    	let a3;
+    	let i3;
+    	let t27;
+    	let a4;
+    	let i4;
+    	let t28;
+    	let a5;
+    	let i5;
 
     	const block = {
     		c: function create() {
-    			div9 = element("div");
+    			div13 = element("div");
     			h1 = element("h1");
     			h1.textContent = "Projects";
     			t1 = space();
-    			div8 = element("div");
-    			ul2 = element("ul");
+    			div12 = element("div");
+    			ul3 = element("ul");
     			li2 = element("li");
     			div3 = element("div");
     			div0 = element("div");
@@ -1837,7 +1859,36 @@ var app = (function () {
     			li3 = element("li");
     			a2 = element("a");
     			i2 = element("i");
+<<<<<<< Updated upstream:build/bundle.js
     			attr_dev(h1, "class", "title svelte-jxkzj5");
+=======
+    			t19 = space();
+    			li6 = element("li");
+    			div11 = element("div");
+    			div8 = element("div");
+    			t20 = space();
+    			div10 = element("div");
+    			div9 = element("div");
+    			div9.textContent = "Shortest Path & Centrality Web App";
+    			t22 = space();
+    			span3 = element("span");
+    			span3.textContent = "TigerGraph, Streamlit, Graphistry";
+    			t24 = space();
+    			p2 = element("p");
+    			p2.textContent = "Created an web application using Streamlit that launches airports' shortest path\r\n                            and centrality analysis. Used TigerGraph Graph - Centrality database.";
+    			t26 = space();
+    			ul2 = element("ul");
+    			li5 = element("li");
+    			a3 = element("a");
+    			i3 = element("i");
+    			t27 = space();
+    			a4 = element("a");
+    			i4 = element("i");
+    			t28 = space();
+    			a5 = element("a");
+    			i5 = element("i");
+    			attr_dev(h1, "class", "title svelte-yplc5");
+>>>>>>> Stashed changes:public/build/bundle.js
     			add_location(h1, file$6, 1, 4, 25);
     			attr_dev(div0, "class", "card__image card__image--fence svelte-jxkzj5");
     			add_location(div0, file$6, 6, 20, 209);
@@ -1894,6 +1945,7 @@ var app = (function () {
     			add_location(div7, file$6, 35, 16, 1578);
     			attr_dev(li4, "class", "cards__item svelte-jxkzj5");
     			add_location(li4, file$6, 34, 12, 1536);
+<<<<<<< Updated upstream:build/bundle.js
     			attr_dev(ul2, "class", "cards svelte-jxkzj5");
     			add_location(ul2, file$6, 3, 8, 95);
     			attr_dev(div8, "class", "container svelte-jxkzj5");
@@ -1901,17 +1953,59 @@ var app = (function () {
     			attr_dev(div9, "id", "projects");
     			attr_dev(div9, "class", "svelte-jxkzj5");
     			add_location(div9, file$6, 0, 0, 0);
+=======
+    			attr_dev(div8, "class", "card__image card__image--hackathon svelte-yplc5");
+    			add_location(div8, file$6, 58, 20, 2668);
+    			attr_dev(div9, "class", "card__title svelte-yplc5");
+    			add_location(div9, file$6, 60, 24, 2793);
+    			attr_dev(span3, "class", "svelte-yplc5");
+    			add_location(span3, file$6, 61, 24, 2884);
+    			attr_dev(p2, "class", "card__text svelte-yplc5");
+    			add_location(p2, file$6, 62, 24, 2956);
+    			attr_dev(i3, "class", "fa fa-github svelte-yplc5");
+    			add_location(i3, file$6, 71, 36, 3496);
+    			attr_dev(a3, "href", "https://github.com/github-organization-account-name/hackathon");
+    			attr_dev(a3, "class", "svelte-yplc5");
+    			add_location(a3, file$6, 68, 32, 3315);
+    			attr_dev(i4, "class", "fa fa-medium svelte-yplc5");
+    			add_location(i4, file$6, 76, 36, 3848);
+    			attr_dev(a4, "href", "https://chicoq1996.medium.com/creating-an-airport-centrality-data-visualization-web-application-with-tigergraph-streamlit-35252235bf0a");
+    			attr_dev(a4, "class", "svelte-yplc5");
+    			add_location(a4, file$6, 73, 32, 3594);
+    			attr_dev(i5, "class", "fa fa-medium svelte-yplc5");
+    			add_location(i5, file$6, 81, 36, 4179);
+    			attr_dev(a5, "href", "https://chicoq1996.medium.com/how-to-render-a-react-page-into-streamlit-and-build-an-interactive-map-790757145a20");
+    			attr_dev(a5, "class", "svelte-yplc5");
+    			add_location(a5, file$6, 78, 32, 3946);
+    			attr_dev(li5, "class", "svelte-yplc5");
+    			add_location(li5, file$6, 67, 28, 3277);
+    			attr_dev(ul2, "class", "svelte-yplc5");
+    			add_location(ul2, file$6, 66, 24, 3243);
+    			attr_dev(div10, "class", "card__content svelte-yplc5");
+    			add_location(div10, file$6, 59, 20, 2740);
+    			attr_dev(div11, "class", "card svelte-yplc5");
+    			add_location(div11, file$6, 57, 16, 2628);
+    			attr_dev(li6, "class", "cards__item svelte-yplc5");
+    			add_location(li6, file$6, 56, 12, 2586);
+    			attr_dev(ul3, "class", "cards svelte-yplc5");
+    			add_location(ul3, file$6, 3, 8, 95);
+    			attr_dev(div12, "class", "container svelte-yplc5");
+    			add_location(div12, file$6, 2, 4, 62);
+    			attr_dev(div13, "id", "projects");
+    			attr_dev(div13, "class", "svelte-yplc5");
+    			add_location(div13, file$6, 0, 0, 0);
+>>>>>>> Stashed changes:public/build/bundle.js
     		},
     		l: function claim(nodes) {
     			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
     		},
     		m: function mount(target, anchor) {
-    			insert_dev(target, div9, anchor);
-    			append_dev(div9, h1);
-    			append_dev(div9, t1);
-    			append_dev(div9, div8);
-    			append_dev(div8, ul2);
-    			append_dev(ul2, li2);
+    			insert_dev(target, div13, anchor);
+    			append_dev(div13, h1);
+    			append_dev(div13, t1);
+    			append_dev(div13, div12);
+    			append_dev(div12, ul3);
+    			append_dev(ul3, li2);
     			append_dev(li2, div3);
     			append_dev(div3, div0);
     			append_dev(div3, t2);
@@ -1932,8 +2026,8 @@ var app = (function () {
     			append_dev(ul0, li1);
     			append_dev(li1, a1);
     			append_dev(a1, i1);
-    			append_dev(ul2, t11);
-    			append_dev(ul2, li4);
+    			append_dev(ul3, t11);
+    			append_dev(ul3, li4);
     			append_dev(li4, div7);
     			append_dev(div7, div4);
     			append_dev(div7, t12);
@@ -1948,12 +2042,34 @@ var app = (function () {
     			append_dev(ul1, li3);
     			append_dev(li3, a2);
     			append_dev(a2, i2);
+    			append_dev(ul3, t19);
+    			append_dev(ul3, li6);
+    			append_dev(li6, div11);
+    			append_dev(div11, div8);
+    			append_dev(div11, t20);
+    			append_dev(div11, div10);
+    			append_dev(div10, div9);
+    			append_dev(div10, t22);
+    			append_dev(div10, span3);
+    			append_dev(div10, t24);
+    			append_dev(div10, p2);
+    			append_dev(div10, t26);
+    			append_dev(div10, ul2);
+    			append_dev(ul2, li5);
+    			append_dev(li5, a3);
+    			append_dev(a3, i3);
+    			append_dev(li5, t27);
+    			append_dev(li5, a4);
+    			append_dev(a4, i4);
+    			append_dev(li5, t28);
+    			append_dev(li5, a5);
+    			append_dev(a5, i5);
     		},
     		p: noop,
     		i: noop,
     		o: noop,
     		d: function destroy(detaching) {
-    			if (detaching) detach_dev(div9);
+    			if (detaching) detach_dev(div13);
     		}
     	};
 
