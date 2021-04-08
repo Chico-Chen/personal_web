@@ -1859,9 +1859,6 @@ var app = (function () {
     			li3 = element("li");
     			a2 = element("a");
     			i2 = element("i");
-<<<<<<< Updated upstream:build/bundle.js
-    			attr_dev(h1, "class", "title svelte-jxkzj5");
-=======
     			t19 = space();
     			li6 = element("li");
     			div11 = element("div");
@@ -1888,72 +1885,62 @@ var app = (function () {
     			a5 = element("a");
     			i5 = element("i");
     			attr_dev(h1, "class", "title svelte-yplc5");
->>>>>>> Stashed changes:public/build/bundle.js
     			add_location(h1, file$6, 1, 4, 25);
-    			attr_dev(div0, "class", "card__image card__image--fence svelte-jxkzj5");
+    			attr_dev(div0, "class", "card__image card__image--fence svelte-yplc5");
     			add_location(div0, file$6, 6, 20, 209);
-    			attr_dev(div1, "class", "card__title svelte-jxkzj5");
+    			attr_dev(div1, "class", "card__title svelte-yplc5");
     			add_location(div1, file$6, 8, 24, 330);
-    			attr_dev(span0, "class", "svelte-jxkzj5");
+    			attr_dev(span0, "class", "svelte-yplc5");
     			add_location(span0, file$6, 9, 24, 399);
-    			attr_dev(span1, "class", "svelte-jxkzj5");
+    			attr_dev(span1, "class", "svelte-yplc5");
     			add_location(span1, file$6, 10, 24, 444);
-    			attr_dev(p0, "class", "card__text svelte-jxkzj5");
+    			attr_dev(p0, "class", "card__text svelte-yplc5");
     			add_location(p0, file$6, 11, 24, 478);
-    			attr_dev(i0, "class", "fa fa-github svelte-jxkzj5");
+    			attr_dev(i0, "class", "fa fa-github svelte-yplc5");
     			add_location(i0, file$6, 20, 36, 952);
     			attr_dev(a0, "href", "https://github.com/Chico-Chen/svelte_practice");
-    			attr_dev(a0, "class", "svelte-jxkzj5");
+    			attr_dev(a0, "class", "svelte-yplc5");
     			add_location(a0, file$6, 17, 32, 787);
-    			attr_dev(li0, "class", "svelte-jxkzj5");
+    			attr_dev(li0, "class", "svelte-yplc5");
     			add_location(li0, file$6, 16, 28, 749);
-    			attr_dev(i1, "class", "fa fa-medium svelte-jxkzj5");
+    			attr_dev(i1, "class", "fa fa-medium svelte-yplc5");
     			add_location(i1, file$6, 27, 36, 1321);
     			attr_dev(a1, "href", "https://chicoq1996.medium.com/svelte-starter-building-a-todo-list-app-b39cced5b770");
-    			attr_dev(a1, "class", "svelte-jxkzj5");
+    			attr_dev(a1, "class", "svelte-yplc5");
     			add_location(a1, file$6, 24, 32, 1119);
-    			attr_dev(li1, "class", "svelte-jxkzj5");
+    			attr_dev(li1, "class", "svelte-yplc5");
     			add_location(li1, file$6, 23, 28, 1081);
-    			attr_dev(ul0, "class", "svelte-jxkzj5");
+    			attr_dev(ul0, "class", "svelte-yplc5");
     			add_location(ul0, file$6, 15, 24, 715);
-    			attr_dev(div2, "class", "card__content svelte-jxkzj5");
+    			attr_dev(div2, "class", "card__content svelte-yplc5");
     			add_location(div2, file$6, 7, 20, 277);
-    			attr_dev(div3, "class", "card svelte-jxkzj5");
+    			attr_dev(div3, "class", "card svelte-yplc5");
     			add_location(div3, file$6, 5, 16, 169);
-    			attr_dev(li2, "class", "cards__item svelte-jxkzj5");
+    			attr_dev(li2, "class", "cards__item svelte-yplc5");
     			add_location(li2, file$6, 4, 12, 127);
-    			attr_dev(div4, "class", "card__image card__image--river svelte-jxkzj5");
+    			attr_dev(div4, "class", "card__image card__image--river svelte-yplc5");
     			add_location(div4, file$6, 36, 20, 1618);
-    			attr_dev(div5, "class", "card__title svelte-jxkzj5");
+    			attr_dev(div5, "class", "card__title svelte-yplc5");
     			add_location(div5, file$6, 38, 24, 1739);
-    			attr_dev(span2, "class", "svelte-jxkzj5");
+    			attr_dev(span2, "class", "svelte-yplc5");
     			add_location(span2, file$6, 39, 24, 1816);
-    			attr_dev(p1, "class", "card__text svelte-jxkzj5");
+    			attr_dev(p1, "class", "card__text svelte-yplc5");
     			add_location(p1, file$6, 40, 24, 1894);
-    			attr_dev(i2, "class", "fa fa-github svelte-jxkzj5");
+    			attr_dev(i2, "class", "fa fa-github svelte-yplc5");
     			add_location(i2, file$6, 49, 36, 2371);
     			attr_dev(a2, "href", "https://github.com/Chico-Chen/share-places-frontend");
-    			attr_dev(a2, "class", "svelte-jxkzj5");
+    			attr_dev(a2, "class", "svelte-yplc5");
     			add_location(a2, file$6, 46, 32, 2200);
-    			attr_dev(li3, "class", "svelte-jxkzj5");
+    			attr_dev(li3, "class", "svelte-yplc5");
     			add_location(li3, file$6, 45, 28, 2162);
-    			attr_dev(ul1, "class", "svelte-jxkzj5");
+    			attr_dev(ul1, "class", "svelte-yplc5");
     			add_location(ul1, file$6, 44, 24, 2128);
-    			attr_dev(div6, "class", "card__content svelte-jxkzj5");
+    			attr_dev(div6, "class", "card__content svelte-yplc5");
     			add_location(div6, file$6, 37, 20, 1686);
-    			attr_dev(div7, "class", "card svelte-jxkzj5");
+    			attr_dev(div7, "class", "card svelte-yplc5");
     			add_location(div7, file$6, 35, 16, 1578);
-    			attr_dev(li4, "class", "cards__item svelte-jxkzj5");
+    			attr_dev(li4, "class", "cards__item svelte-yplc5");
     			add_location(li4, file$6, 34, 12, 1536);
-<<<<<<< Updated upstream:build/bundle.js
-    			attr_dev(ul2, "class", "cards svelte-jxkzj5");
-    			add_location(ul2, file$6, 3, 8, 95);
-    			attr_dev(div8, "class", "container svelte-jxkzj5");
-    			add_location(div8, file$6, 2, 4, 62);
-    			attr_dev(div9, "id", "projects");
-    			attr_dev(div9, "class", "svelte-jxkzj5");
-    			add_location(div9, file$6, 0, 0, 0);
-=======
     			attr_dev(div8, "class", "card__image card__image--hackathon svelte-yplc5");
     			add_location(div8, file$6, 58, 20, 2668);
     			attr_dev(div9, "class", "card__title svelte-yplc5");
@@ -1994,7 +1981,6 @@ var app = (function () {
     			attr_dev(div13, "id", "projects");
     			attr_dev(div13, "class", "svelte-yplc5");
     			add_location(div13, file$6, 0, 0, 0);
->>>>>>> Stashed changes:public/build/bundle.js
     		},
     		l: function claim(nodes) {
     			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
