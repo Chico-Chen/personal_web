@@ -56,7 +56,7 @@
             </li>
             <li class="cards__item">
                 <div class="card">
-                    <div class="card__image card__image--river" />
+                    <div class="card__image card__image--hackathon" />
                     <div class="card__content">
                         <div class="card__title">Shortest Path & Centrality Web App</div>
                         <span>TigerGraph, Streamlit, Graphistry</span>
@@ -228,6 +228,10 @@
 
     .card__image--fence {
         background-image: url("./image/SvelteScreenShot.gif");
+    }
+
+    .card__image--hackathon {
+        background-image: url("./image/hackathon.jpg");
     }
 
     .card__title {
